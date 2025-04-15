@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>Typing Speed Test</h1>
+
+    <input type="text" id="nameInput" placeholder="Enter your name" />
+  
+    <div id="quote">Loading...</div>
+    <textarea id="input" placeholder="Start typing here..." disabled></textarea>
+    <div id="stats"></div>
+    <button onclick="startTest()">Start New Test</button>
+  
+    <div id="leaderboard">
+      <h2>🏆 Leaderboard</h2>
+      <ol id="highScoresList"></ol>
+    </div> 
+    <script src="index.js"></script>
+</body>
+</html>
