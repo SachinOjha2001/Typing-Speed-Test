@@ -2,7 +2,10 @@
 
 A simple and interactive web-based Typing Speed Test built with **HTML**, **CSS**, and **JavaScript**. 
 <br>
-Users can type random quotes, track their typing speed (WPM), and compete on a local leaderboard.
+Users can type random quotes, track their typing speed (WPM), and compete on a local leaderboard.<br>
+
+<h1>Live Link Of This Project Click To watch Output.</h1>
+https://sachinojha2001.github.io/Typing-Speed-Test/
 
 ---
 
